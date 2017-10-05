@@ -8,8 +8,7 @@
 	<name>myweb Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<!-- This is comment in XML-->
-	<!-- This is comment in XML-->
-	<!-- Yashwanth-->
+	
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
